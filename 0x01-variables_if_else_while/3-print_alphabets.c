@@ -13,7 +13,7 @@ int main(void)
 		putchar(n);
 		n++;
 	}
-	while (m <= 99)
+	while (m <= 90)
 	{
 		putchar(m);
 		m++;
